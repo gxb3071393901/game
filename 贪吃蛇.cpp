@@ -93,7 +93,7 @@ void welcome()
     gotoxy(20, 23);
     printf("---------------------------------------------------");
     gotoxy(25, 8);
-    printf("这是我创造的贪吃蛇，欢迎！");
+    printf("hello world");
     gotoxy(29, 12);
     printf("注意：请在英文输入法中操作");
     gotoxy(29, 14);
