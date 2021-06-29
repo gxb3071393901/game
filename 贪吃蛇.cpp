@@ -93,7 +93,7 @@ void welcome()
     gotoxy(20, 23);
     printf("---------------------------------------------------");
     gotoxy(25, 8);
-    printf("hello world");
+    printf("开始游戏");
     gotoxy(29, 12);
     printf("注意：请在英文输入法中操作");
     gotoxy(29, 14);
